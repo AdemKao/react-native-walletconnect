@@ -19,9 +19,11 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.Adem.project3_mobile_app_dev",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.Adem.project3_mobile_app_dev",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
